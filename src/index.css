@@ -1,0 +1,20 @@
+@import "tailwindcss";
+.hero{
+    background-color: #111;
+}
+*{
+    overflow-x: hidden;
+}
+.serviceText{
+    line-height: 2.8rem;
+    
+}
+h2{
+    color: white;
+}
+h1{
+    color:white
+}
+h3{
+    color:white
+}
